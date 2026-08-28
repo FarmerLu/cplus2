@@ -202,8 +202,7 @@ GitHub地址：**[github.com/FarmerLu/cplus2](https://github.com/FarmerLu/cplus2
 
 ---
 
-C++的根基从未动摇。现在，一场冰雪正待澄清旷野。
-
+C++的根基从未动摇。
 **来一场冰雪澄清旷野，萌芽破土，再度春秋。**
 
 **C+2核心团队**  
