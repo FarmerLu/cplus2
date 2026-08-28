@@ -1,8 +1,10 @@
 # 🚀 c+2 (cplus2)
 
 <p align="left">
-  <a href="#-english">English</a> | <a href="#-中文">中文</a>
+  <a href="#English">English</a> | <a href="#中文">中文</a>
 </p>
+
+## English
 
 ### C+2: Keep C++ Great
 
@@ -209,4 +211,4 @@ C++的根基从未动摇。现在，一场冰雪正待澄清旷野。
 **C+2核心团队**  
 2026年8月28日
 
-<p align="right">(<a href="#-c2-cplus2">回到頂部</a>)</p>
+<p align="right">(<a href="#中文">回到頂部</a>)</p>
