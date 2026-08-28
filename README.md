@@ -1,12 +1,10 @@
 # 🚀 c+2 (cplus2)
 
 <p align="left">
-  <a href="#English">English</a> | <a href="#中文">中文</a>
+  <a href="#keep-c-great">English</a> | <a href="#keep-c-great-cn">简体中文</a>
 </p>
 
-## English
-
-### C+2: Keep C++ Great
+## <a id="keep-c-great"></a>C+2: Keep C++ Great
 
 **This is not goodbye. This is a passing of the torch.**
 
@@ -114,11 +112,11 @@ This is not a finished product. **This is an invitation**—to you, every develo
 
 ---
 
-## 中文
+<p align="left">
+  <a href="#keep-c-great">English</a> | <a href="#keep-c-great-cn">简体中文</a>
+</p>
 
-### C+2：讓 C++ 保持偉大
-
-# C+2：Keep C++ Great
+### <a id="keep-c-great-cn"></a>C+2：让 C++ 保持伟大
 
 这不是告别，这是传承。
 
@@ -194,7 +192,7 @@ C++拥有从寄存器到神经网络的极致自由。而C+2不剥夺这份自�
 
 这不是一个成品，**这是一个邀请**——邀请每一个热爱C++的开发者，一起来完成这项事业。
 
-现在，轮到你了。
+现在，请:
 
 - ⭐ **Star我们**——让世界知道，C++的战士从未离开。
 - 🐛 **提Issue**——每一次反馈，都是对这把护盾的淬炼。
