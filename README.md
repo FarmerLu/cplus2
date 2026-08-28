@@ -92,7 +92,7 @@ And **C+2 is the next one we forged for you.**
 
 **Keep C++ Great** — not a slogan, but a mission.
 
-Today, we release the **C+2 Language Specification v0.1**, open-sourced on GitHub.
+we will soon release the **C+2 Language Specification v0.1**, open-sourced on GitHub.
 
 This is not a finished product. **This is an invitation**—to you, every developer who loves C++, to join us in completing this mission.
 
@@ -188,7 +188,7 @@ C++拥有从寄存器到神经网络的极致自由。而C+2不剥夺这份自�
 
 ---
 
-今天我们发布**C+2语言规范v0.1**，开源在GitHub。
+我们将尽快发布**C+2语言规范v0.1**，开源在GitHub。
 
 这不是一个成品，**这是一个邀请**——邀请每一个热爱C++的开发者，一起来完成这项事业。
 
