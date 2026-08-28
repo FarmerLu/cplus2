@@ -116,7 +116,7 @@ This is not a finished product. **This is an invitation**—to you, every develo
   <a href="#keep-c-great">English</a> | <a href="#keep-c-great-cn">简体中文</a>
 </p>
 
-### <a id="keep-c-great-cn"></a>C+2：让 C++ 保持伟大
+## <a id="keep-c-great-cn"></a>C+2：让 C++ 继续伟大
 
 这不是告别，这是传承。
 
